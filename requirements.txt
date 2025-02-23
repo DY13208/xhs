@@ -1,0 +1,12 @@
+requests
+pyyaml
+schedule
+pymysql
+SQLAlchemy
+python-dotenv
+Appium-Python-Client
+selenium
+playwright
+transformers
+nltk
+fake_useragent
