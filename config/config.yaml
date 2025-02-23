@@ -1,0 +1,22 @@
+accounts:
+- phone: '17630925326'
+- cookies: './config/cookies.json'
+catalog_image: D:/xhs/image
+database:
+  database: xhs
+  host: localhost
+  password: xhs081478
+  port: 3306
+  user: root
+proxy:
+  enable: true
+  proxy_url: http://127.0.0.1:7890
+scheduling:
+  max_daily_comments: 10
+  publish_time: 09:00
+suffix:
+- .jpg
+- .jpeg
+- .png
+- .webp
+users: []
