@@ -17,53 +17,31 @@
 - [ ] 账号运营维护
 
 ## 模块说明
-
-> xhs
-> 
-> ├── .idea （idea配置不必理会）
->
-> ├── PyQt-Fluent-Widgets（PyQt-Fluent-Widgets 的UI原始文件，可以参考来写）
-> 
-> ├── app（主要页面UI代码 [xhsCore](app\view\xhsCore) 的目录下是主要xhs核心控制页面代码）
-> 
-> ├── config（配置文件）
-> 
-> ├── core（都是一些暂未整理的模块不用理会）
-> 
-> ├── data（都是一些暂未整理的模块不用理会）
-> 
-> ├── database（都是一些暂未整理的模块不用理会）
-> 
-> ├── js（JS脚本）
-> 
-> ├── logs（都是一些暂未整理的模块不用理会）
-> 
-> ├── models（都是一些暂未整理的模块不用理会）
-> 
-> ├── qfluentwidgets（UI库的SDK）
-> 
-> ├── resource（UI图片资源）
-> 
-> ├── tasks（都是一些暂未整理的模块不用理会）
-> 
-> ├── README.md（说明文档）
-> 
-> ├── UI_demo.py（都是一些暂未整理的模块不用理会）
-> 
-> ├── __init__.py
-> 
-> ├── cookies.json（登录后保存的cookies文件）
-> 
-> ├── demo.py（主程序代码）
-> 
-> ├── error_post_article.png
-> 
-> ├── error_select_country.png
-> 
-> ├── error_send_code.png
-> ├── gallery.pro
-> ├── geckodriver.exe
-> ├── main.py（都是一些暂未整理的模块不用理会）
-> ├── requirements.txt（需要安装的版本库）
-> ├── stealth.min.js（JS脚本UI库的）
-> └── test.py
+xhs
+├── .idea （idea配置不必理会）
+├── PyQt-Fluent-Widgets（PyQt-Fluent-Widgets 的UI原始文件，可以参考来写）
+├── app（主要页面UI代码 [xhsCore](app\view\xhsCore) 的目录下是主要xhs核心控制页面代码）
+├── config（配置文件）
+├── core（都是一些暂未整理的模块不用理会）
+├── data（都是一些暂未整理的模块不用理会）
+├── database（都是一些暂未整理的模块不用理会）
+├── js（JS脚本）
+├── logs（都是一些暂未整理的模块不用理会）
+├── models（都是一些暂未整理的模块不用理会）
+├── qfluentwidgets（UI库的SDK）
+├── resource（UI图片资源）
+├── tasks（都是一些暂未整理的模块不用理会）
+├── README.md（说明文档）
+├── UI_demo.py（都是一些暂未整理的模块不用理会）
+├── __init__.py
+├── cookies.json（登录后保存的cookies文件）
+├── demo.py（主程序代码）
+├── error_post_article.png
+├── error_select_country.png
+├── error_send_code.png
+├── gallery.pro
+├── geckodriver.exe
+├── main.py（都是一些暂未整理的模块不用理会）
+├── requirements.txt（需要安装的版本库）
+├── stealth.min.js（JS脚本UI库的）
+└── test.py
