@@ -19,8 +19,9 @@
 ## 模块说明
 
 > xhs
-> ├── .idea （idea配置不必理会）
 > 
+> ├── .idea （idea配置不必理会）
+>
 > ├── PyQt-Fluent-Widgets（PyQt-Fluent-Widgets 的UI原始文件，可以参考来写）
 > 
 > ├── app（主要页面UI代码 [xhsCore](app\view\xhsCore) 的目录下是主要xhs核心控制页面代码）
