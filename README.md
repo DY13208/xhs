@@ -17,6 +17,7 @@
 - [ ] 账号运营维护
 
 ## 模块说明
+```txt
 xhs
 ├── .idea （idea配置不必理会）
 ├── PyQt-Fluent-Widgets（PyQt-Fluent-Widgets 的UI原始文件，可以参考来写）
@@ -45,3 +46,4 @@ xhs
 ├── requirements.txt（需要安装的版本库）
 ├── stealth.min.js（JS脚本UI库的）
 └── test.py
+```
